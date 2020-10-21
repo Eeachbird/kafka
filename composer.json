@@ -1,0 +1,14 @@
+{
+    "name": "liujinyong/kafka",
+    "description": "this is kafka extension",
+    "type": "composer-plugin",
+    "license": "none",
+    "authors": [
+        {
+            "name": "liujinyong",
+            "email": "893296814@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
